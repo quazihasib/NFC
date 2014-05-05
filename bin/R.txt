@@ -235,6 +235,8 @@ int drawable abc_textfield_searchview_holo_light 0x7f020054
 int drawable abc_textfield_searchview_right_holo_dark 0x7f020055
 int drawable abc_textfield_searchview_right_holo_light 0x7f020056
 int drawable ic_launcher 0x7f020057
+int id ReceiveNFC 0x7f05003e
+int id SendNFC 0x7f05003d
 int id action_bar 0x7f05001c
 int id action_bar_activity_content 0x7f050015
 int id action_bar_container 0x7f05001b
@@ -250,8 +252,6 @@ int id action_settings 0x7f05003f
 int id activity_chooser_view_content 0x7f050025
 int id always 0x7f05000b
 int id beginning 0x7f050011
-int id buttonbeam 0x7f05003d
-int id buttontag 0x7f05003c
 int id checkbox 0x7f05002d
 int id collapseActionView 0x7f05000d
 int id default_activity_button 0x7f050028
@@ -295,7 +295,7 @@ int id submit_area 0x7f050039
 int id tabMode 0x7f050002
 int id title 0x7f05002b
 int id top_action_bar 0x7f050020
-int id tv 0x7f05003e
+int id tv 0x7f05003c
 int id up 0x7f050021
 int id useLogo 0x7f050003
 int id withText 0x7f05000c
@@ -324,8 +324,8 @@ int layout abc_popup_menu_item_layout 0x7f030014
 int layout abc_search_dropdown_item_icons_2line 0x7f030015
 int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
-int layout examples 0x7f030018
-int layout main 0x7f030019
+int layout activity_main 0x7f030018
+int layout main_page 0x7f030019
 int layout support_simple_spinner_dropdown_item 0x7f03001a
 int menu main 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0a0001
